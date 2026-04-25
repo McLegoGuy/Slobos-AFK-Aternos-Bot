@@ -8,7 +8,7 @@
   "server": {
     "ip": "tretipokus.aternos.me",
     "port": 15423,
-    "version": "1.26.2",
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
